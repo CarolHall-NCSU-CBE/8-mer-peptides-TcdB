@@ -6,4 +6,4 @@ This repository contains the in-silico data associated with the paper-Developmen
 1. SB1-SB7: Each folder contains the topology file and final PDB file from a 100 ns simulation for runs 1 to 3
 2. LSB5: Each folder contains the topology file and final PDB file from a 100 ns simulation for runs 1 to 3
 
-# The peptide design code (PepBD) code is available in this repo: https://github.com/CarolHall-NCSU-CBE/8-mer-peptides-TcdA
+The peptide design code (PepBD) code is available in this repo: https://github.com/CarolHall-NCSU-CBE/8-mer-peptides-TcdA
